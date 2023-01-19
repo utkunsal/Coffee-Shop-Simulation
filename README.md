@@ -13,11 +13,11 @@ This program simulates these two models and get statistics given below:
 The input file has the following format:
 1. First line is number of cashiers (N) which is always divisible by 3.
 2. Second line is the number of orders (X).
-3. Following X lines contain information about orders. There are 4 variables separated with space. They are:
-• Arrival Time: The time when customer enters to the coffee shop (in seconds) 
-• Order Time: The time required to give coffee order (in seconds)
-• Brew Time: The time required to make coffee (in seconds)
-• Price of Order: Price of the coffee.
+3. Following X lines contain information about orders. There are 4 variables separated with space. They are:  
+• Arrival Time: The time when customer enters to the coffee shop (in seconds)   
+• Order Time: The time required to give coffee order (in seconds)   
+• Brew Time: The time required to make coffee (in seconds)  
+• Price of Order: Price of the coffee.  
 
 The output file has the following format for both models:
 1. First line is the total running time of the coffee shop (in seconds).
@@ -26,6 +26,7 @@ The output file has the following format for both models:
 4. Next N lines are the utilization of the cashiers.
 5. Next N/3 lines are the utilization of the baristas.
 6. Next X lines are turnaround times of orders.  
+
 There is an empty line between the first model and the second model.
 
 # Execution
