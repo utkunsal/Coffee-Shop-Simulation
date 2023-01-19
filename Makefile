@@ -1,5 +1,5 @@
-Assignment3: main CoffeeShop Cashier Barista Queue
-	g++ -std=c++11 main.o CoffeeShop.o Cashier.o Barista.o Queue.o -o Assignment3
+CoffeeShopSimulation: main CoffeeShop Cashier Barista Queue
+	g++ -std=c++11 main.o CoffeeShop.o Cashier.o Barista.o Queue.o -o CoffeeShopSimulation
 main: main.cpp
 	g++ -std=c++11 -c main.cpp -o main.o
 CoffeeShop: 
