@@ -25,7 +25,7 @@ The output file has the following format for both models:
 3. If the coffee shop has one barista queue, next line is maximum length of this queue. If the coffee shop has N/3 barista queues, next N/3 lines are maximum lengths of each barista queue.
 4. Next N lines are the utilization of the cashiers.
 5. Next N/3 lines are the utilization of the baristas.
-6. Next X lines are turnaround times of orders.
+6. Next X lines are turnaround times of orders.  
 There is an empty line between the first model and the second model.
 
 # Execution
