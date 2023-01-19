@@ -1,3 +1,1 @@
 # Hacettepe University Programming Assignment
-
-
