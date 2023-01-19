@@ -4,8 +4,8 @@ The Coffee Shop is available in two different models, each model with N cashiers
 
 This program simulates these two models and get statistics given below:
 1. Total running time (for all system)
-2. Utilization (for both cashier and barista)(busy time of the unit / total running time of the coffee shop)
-3. Turnaround time (for each order)(time when the coffee is done - arrival time of the customer)
+2. Utilization (for both cashier and barista) (busy time of the unit / total running time of the coffee shop)
+3. Turnaround time (for each order) (time when the coffee is done - arrival time of the customer)
 4. Maximum length of each queue
 
 # Input and Output
