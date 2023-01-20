@@ -1,3 +1,5 @@
+Hacettepe University Programming Assignment
+
 # Coffee Shop Simulation
 
 The Coffee Shop is available in two different models, each model with N cashiers and N/3 baristas. In the first model, there is one queue for both cashier and barista. For the second model, there is one queue for cashiers and N/3 queues for baristas. First 3 cashiers send the orders to the first barista and next 3 cashiers send the orders to the second barista and goes on like that. In the cashier queue it is first come first serve, while in the barista queue the most expensive coffee is served first. This design is valid for both models.
